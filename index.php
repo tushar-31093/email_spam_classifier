@@ -1,0 +1,1 @@
+<?php header( 'Location: /email_spam_classifier.html' ) ;  ?>
